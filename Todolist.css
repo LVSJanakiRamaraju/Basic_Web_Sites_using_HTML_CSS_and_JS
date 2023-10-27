@@ -3,29 +3,24 @@
     height: 100vh;
     width: 100vw;
 }
-
 .tom1 {
     text-align: center;
     font-family: "Roboto";
     color: white;
 }
-
 .tom2 {
     font-family: "Roboto";
     font-size: 16px;
     font-weight: bold;
     color: white;
 }
-
 .tom3 {
     color: white;
 }
-
 .tom4 {
     text-align: center;
     color: white;
 }
-
 .tom5 {
     height: 36px;
     width: 70px;
