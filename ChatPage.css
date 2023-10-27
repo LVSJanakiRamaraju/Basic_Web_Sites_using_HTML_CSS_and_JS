@@ -4,7 +4,6 @@
     font-family: Roboto;
     color: White;
 }
-
 .h {
     background-color: #323f4b;
     text-align: center;
@@ -12,7 +11,6 @@
     font-size: 20px;
     padding: 8px;
 }
-
 .para1 {
     background-color: #47a3f3;
     text-align: end;
@@ -22,10 +20,7 @@
     height: 40px;
     padding: 8px;
     text-align: right;
-
-
 }
-
 .para2 {
     background-color: #52606d;
     border-top-left-radius: 8px;
@@ -35,11 +30,9 @@
     padding: 8px;
     text-align: left;
 }
-
 .para11 {
     margin-top: 50px;
 }
-
 .para {
     padding: 12px;
 }
