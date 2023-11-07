@@ -1,0 +1,57 @@
+.bg-color-top {
+    background-color: #fb4e71;
+    padding: 8px;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.bg-color-buttom {
+    background-color: #e6f6ff;
+    background-size: cover;
+    height: 100vh;
+}
+
+.card {
+    border-radius: 9px;
+    margin: 8px;
+}
+
+.paragraph {
+    font-size: 13px;
+    font-family: "Roboto";
+}
+
+.heading-ipl {
+    font-size: 18px;
+    padding: 8px;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.card-heading {
+    font-size: 17px;
+    padding: 5px;
+    font-family: "Roboto";
+}
+
+.card-paragraph {
+    font-size: 13px;
+    padding: 5px;
+    color: #888888;
+    font-family: "Roboto";
+}
+
+.para-buttom {
+    font-size: 12px;
+    padding: 8px;
+    font-family: "Roboto";
+}
+
+.button-1 {
+    font-family: "Roboto";
+    margin-left: 130px;
+    padding: 5px;
+    font-size: 12px;
+    border-width: 0px;
+    border-radius: 5px;
+}
