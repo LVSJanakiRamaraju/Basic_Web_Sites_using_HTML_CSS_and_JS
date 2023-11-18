@@ -1,0 +1,25 @@
+.image {
+    border: 3px;
+    border-style: solid;
+    border-color: #707070;
+    font-family: "Roboto";
+    padding: 1px;
+}
+
+.heading {
+    font-weight: bolder;
+    padding: 15px;
+    font-size: 22px;
+
+}
+
+.list {
+    padding: 5px;
+}
+
+.btn {
+    margin-left: 120px;
+    margin-bottom: 20px;
+    padding: 5px;
+    align-items: center;
+}
