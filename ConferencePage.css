@@ -1,0 +1,51 @@
+.conferencehomepage {
+    width: 100vw;
+}
+
+.heading {
+    text-align: center;
+    color: #183b56;
+    font-size: 30px;
+    padding: 12px;
+    font-weight: bold;
+}
+
+.para {
+    text-align: center;
+    color: #5a7184;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.dhana {
+    text-align: center;
+    color: #183b56;
+    font-size: 24px;
+    padding: 12px;
+    font-weight: bold;
+}
+
+.dhana1 {
+    text-align: center;
+    color: #5a7184;
+    padding: 5px;
+    font-size: 16px;
+}
+
+.bhuvan {
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.main1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.main2 {
+    color: #5a7184;
+}
