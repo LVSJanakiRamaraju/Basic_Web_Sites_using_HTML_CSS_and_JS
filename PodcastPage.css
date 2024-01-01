@@ -1,0 +1,87 @@
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    width: 100vw;
+    height: 40vh;
+}
+
+.podcasts {
+    color: #ffffff;
+    padding: 16px;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+.dhana {
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.image {
+    width: 130px;
+}
+
+.podcastshead {
+    color: #151765;
+    font-size: 16px;
+    text-align: center;
+}
+
+.podcastspara {
+    font-size: 14px;
+    text-align: center;
+    color: #5a7184;
+}
+
+.card-selected-podcast {
+    background-color: #151765;
+    padding: 16px;
+}
+
+.selected-podcast {
+    font-size: 12px;
+    color: #ffffff;
+    font-weight: normal;
+    margin: 8px;
+}
+
+.selected-heading {
+    font-size: 20px;
+    color: #ffffff;
+    margin: 8px;
+}
+
+.selected-para {
+    font-size: 12px;
+    color: #ffffff;
+    margin: 8px;
+}
+
+.card-podcast {
+    background-color: #ffffff;
+    padding: 16px;
+}
+
+.card-heading {
+    color: #151765;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 8px;
+}
+
+.card-para {
+    font-size: 12px;
+    color: #5a7184;
+    margin: 8px;
+}
+
+.para {
+    font-size: 10px;
+    margin: 8px;
+}
+
+.button {
+    color: #ffffff;
+    border-radius: 5px;
+}
