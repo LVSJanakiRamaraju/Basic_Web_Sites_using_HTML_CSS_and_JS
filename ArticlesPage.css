@@ -1,0 +1,43 @@
+.empower {
+    background-color: #225bd0;
+    background-size: auto;
+    height: 100%;
+    padding: 20px;
+    font-family: Roboto;
+}
+
+.empower-heading {
+    color: #ffffff;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.empower-para {
+    color: #ffffff;
+    text-align: center;
+
+}
+
+.empower-technology {
+    background-color: #ffffff;
+    margin: 10px;
+    width: 35vw;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.empower-image {
+    height: 30px;
+    margin-left: 15vw;
+    text-align: center;
+}
+
+.technology-para {
+    text-align: center;
+}
+
+.technology-heading {
+    color: #ffffff;
+    margin-top: 20px;
+    font-size: 20px;
+}
